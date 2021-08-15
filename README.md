@@ -1,1 +1,7 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# BitM8s
+
+Run the development server
+
+```bash
+npm run dev
+```
